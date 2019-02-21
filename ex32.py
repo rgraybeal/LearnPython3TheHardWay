@@ -3,7 +3,7 @@
 Loops and lists
 
 """
-
+#Added a comment on line 6 for git update.
 
 the_count = range(1,5)
 fruits = ['apples', 'oranges', 'pears', 'apricots']
